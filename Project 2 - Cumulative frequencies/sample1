@@ -1,0 +1,2 @@
+Words_Frequencies: WF[] = { (“foot”,5), (“feet”,12), (“day”,3), (“days”,8), (“fear”,2), (“scared”,1), (“long”,12), (“large”,5), (“big”,5), (“was”,4), (“is”,4), (“are”,15)} of size 12
+Synonyms: SYN[] = { (“foot”,“feet”), (“day”,“days”), (“fear”,“scared”), (“long”,“big”), (“big”,“large”), (“is”,“are”), (“is”,“was”) } of size 7
